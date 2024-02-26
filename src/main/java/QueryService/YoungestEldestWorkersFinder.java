@@ -1,4 +1,4 @@
-package org.example.sql;
+package QueryService;
 
 import java.time.LocalDate;
 

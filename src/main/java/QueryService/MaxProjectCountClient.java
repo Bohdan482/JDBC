@@ -1,4 +1,4 @@
-package org.example.sql;
+package QueryService;
 
 public class MaxProjectCountClient {
     private String name;

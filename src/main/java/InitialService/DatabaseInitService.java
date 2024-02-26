@@ -1,4 +1,6 @@
-package org.example.sql;
+package InitialService;
+
+import Storage.Database;
 
 import java.io.*;
 import java.nio.file.Files;

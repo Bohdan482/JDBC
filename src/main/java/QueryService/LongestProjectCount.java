@@ -1,4 +1,4 @@
-package org.example.sql;
+package QueryService;
 
 public class LongestProjectCount {
     private int projectID;

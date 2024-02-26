@@ -1,4 +1,4 @@
-package org.example.sql;
+package QueryService;
 
 public class MaxSalaryCountWorker {
     private String name;

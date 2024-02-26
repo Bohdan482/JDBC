@@ -1,4 +1,6 @@
-package org.example.sql;
+package QueryService;
+
+import Storage.Database;
 
 import java.io.IOException;
 import java.nio.file.Files;

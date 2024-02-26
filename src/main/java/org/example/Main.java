@@ -1,4 +1,6 @@
-package org.example.sql;
+package org.example;
+
+import QueryService.DatabaseQueryService;
 
 import java.util.HashMap;
 import java.util.Map;
